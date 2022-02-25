@@ -13,7 +13,7 @@ CluserCentroids, SMOTEENN, BalancedRandomForestClassifier, & EasyEnsembleClassif
 
 ![Random OverSampling](https://user-images.githubusercontent.com/91576834/155634005-c440ecf3-08a5-439e-aa42-f6514077c617.png)
 
-***Balanced Accuracy Score:*** **0.6497536370265621**
+***Balanced Accuracy Score:*** **65%**
 
 **High risk Performace:**
 - **precision is very low (0.01)**
