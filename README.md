@@ -46,7 +46,7 @@ CluserCentroids, SMOTEENN, BalancedRandomForestClassifier, & EasyEnsembleClassif
 
 ### **Cluster Centroid**
 
-<img src="img/ClusterCentroids .png">?
+<img src="CusterCentroids .png">
 
 ***Balanced Accuracy Score:*** **≈64%**
 
