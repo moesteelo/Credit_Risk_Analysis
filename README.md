@@ -25,5 +25,5 @@ CluserCentroids, SMOTEENN, BalancedRandomForestClassifier, & EasyEnsembleClassif
 
 - **recall is good (0.68)**
 
-<img src="../ClusterCentroids .png">
+<img src="img/ClusterCentroids .png">?
 
