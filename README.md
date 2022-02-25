@@ -21,9 +21,60 @@ CluserCentroids, SMOTEENN, BalancedRandomForestClassifier, & EasyEnsembleClassif
 - **recall is good (0.61)**
 
 **Low risk Performace:**
-- **precision is very low (1.00)**
+- **precision is perfect (1.00)**
 
 - **recall is good (0.68)**
 
+
+
+### **SMOTE OverSampling**
+
+<img src="img/SMOTE Oversampling .png">
+
+***Balanced Accuracy Score:*** **≈64%**
+
+**High risk Performace:**
+- **precision is very low (0.01)**
+
+- **recall is good (0.63)**
+
+**Low risk Performace:**
+- **precision is perfect (1.00)**
+
+- **recall is good (0.66)**
+
+
+### **Cluster Centroid**
+
 <img src="img/ClusterCentroids .png">?
+
+***Balanced Accuracy Score:*** **≈64%**
+
+**High risk Performace:**
+- **precision is very low (0.01)**
+
+- **recall is good (0.70)**
+
+**Low risk Performace:**
+- **precision is perfect (1.00)**
+
+- **recall is good (0.66)**
+
+
+### **SMOTEENN (Over & Under) Sampling**
+
+<img src="img/ SMOTEENN .png">
+
+***Balanced Accuracy Score:*** **≈51%**
+
+**High risk Performace:**
+- **precision is very low (0.01)**
+
+- **recall is good (0.70)**
+
+**Low risk Performace:**
+- **precision is perfect (1.00)**
+
+- **recall is good (0.66)**
+
 
