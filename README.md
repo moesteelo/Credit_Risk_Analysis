@@ -113,7 +113,7 @@ CluserCentroids, SMOTEENN, BalancedRandomForestClassifier, & EasyEnsembleClassif
 
 ## **Sumamry**
 
-**The F1 score, also called the harmonic mean, can be characterized as a single summary statistic of precision and sensitivity. There is usually a trade-off between sensitivity and precision, and that a balance must be struck between the two. Based on the F1 scores the best Machine Learning Model is the Easy Ensemble Classifier with an average scare of 0.97 or 97%, followed by the Balanced Random Forest Classifier. While the worst performing model is Cluster Centroid with an average F1 score of 0.60 0r 60%.**
+**The F1 score, also called the harmonic mean, can be characterized as a single summary statistic of precision and sensitivity. There is usually a trade-off between sensitivity and precision, and that a balance must be struck between the two. Based on the F1 scores the best Machine Learning Model is the Easy Ensemble Classifier with an average score of 0.97 or 97%, followed by the Balanced Random Forest Classifier. While the worst performing model is Cluster Centroid with an average F1 score of 0.60 0r 60%.**
 
-**Based on the model performances the Easy Ensemble Classifier model is greatly recommended for assessing credit risk.**
+**Based on the model performances the Easy Ensemble Classifier model is highly recommended for assessing credit risk.**
 
